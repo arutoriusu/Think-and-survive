@@ -1,0 +1,6 @@
+16-16-16
+scale 100 (unity)
+X right
+Z up
+1 texture
+1 material
