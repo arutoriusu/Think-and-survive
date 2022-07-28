@@ -1,0 +1,351 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0ccf6a98c229364aae167b98b844b5f, type: 3}
+  m_Name: ItemDescriptions
+  m_EditorClassIdentifier: 
+  _listItems:
+  - id: 213
+    type: Weapon
+    name: Arrow
+    itemClass: Arrow
+    damage: 3
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 229
+    type: Weapon
+    name: Bow
+    itemClass: Bow
+    damage: 0
+    durability: 30
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 248
+    type: CraftMaterial
+    name: Rope
+    itemClass: Consumable
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 246
+    type: CraftMaterial
+    name: Flint
+    itemClass: Consumable
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 145
+    type: WeaponAndCraft
+    name: StonePicker
+    itemClass: Picker
+    damage: 4
+    durability: 30
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 100
+    type: CraftMaterial
+    name: Wood
+    itemClass: Consumable
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 129
+    type: WeaponAndCraft
+    name: StoneHatchet
+    itemClass: Hatchet
+    damage: 5
+    durability: 30
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 160
+    type: WeaponAndCraft
+    name: WoodShovel
+    itemClass: Shovel
+    damage: 3
+    durability: 30
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 96
+    type: CraftMaterial
+    name: Log
+    itemClass: Consumable
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 231
+    type: CraftMaterial
+    name: IronIngot
+    itemClass: Consumable
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 178
+    type: Weapon
+    name: IronSword
+    itemClass: Sword
+    damage: 6
+    durability: 30
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 161
+    type: WeaponAndCraft
+    name: IronShovel
+    itemClass: Shovel
+    damage: 6
+    durability: 30
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 146
+    type: WeaponAndCraft
+    name: IronPicker
+    itemClass: Picker
+    damage: 6
+    durability: 30
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 130
+    type: WeaponAndCraft
+    name: IronHatchet
+    itemClass: Hatchet
+    damage: 6
+    durability: 30
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 219
+    type: Build
+    name: WoodDoor
+    itemClass: Door
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 220
+    type: Build
+    name: IronDoor
+    itemClass: Door
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 80
+    type: Build
+    name: Bonfire
+    itemClass: Consumable
+    damage: 0
+    durability: 5
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 81
+    type: CraftMaterial
+    name: Torch
+    itemClass: Consumable
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 238
+    type: CraftMaterial
+    name: Slime
+    itemClass: Consumable
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 247
+    type: CraftMaterial
+    name: Coal
+    itemClass: Consumable
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 253
+    type: CraftMaterial
+    name: Flour
+    itemClass: Consumable
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 26
+    type: Eat
+    name: Egg
+    itemClass: Ingredient
+    damage: 0
+    durability: 0
+    satisfyingHunger: 3
+    kindleValue: 0
+  - id: 89
+    type: CraftMaterial
+    name: Fasteners
+    itemClass: Build
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 82
+    type: Build
+    name: Chest
+    itemClass: Chest
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 97
+    type: CraftMaterial
+    name: IronOre
+    itemClass: Ore
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 233
+    type: CraftMaterial
+    name: Wheat
+    itemClass: Ingredient
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 236
+    type: CraftMaterial
+    name: Bone
+    itemClass: Bone
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 79
+    type: Consumable
+    name: BoneFlour
+    itemClass: Flour
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 177
+    type: Weapon
+    name: StoneSword
+    itemClass: Sword
+    damage: 3
+    durability: 30
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 202
+    type: CraftMaterial
+    name: IronSheet
+    itemClass: Sheet
+    damage: 0
+    durability: 30
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 95
+    type: CraftMaterial
+    name: Dough
+    itemClass: Dough
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 217
+    type: Eat
+    name: Bread
+    itemClass: Bread
+    damage: 0
+    durability: 0
+    satisfyingHunger: 5
+    kindleValue: 0
+  - id: 232
+    type: CraftMaterial
+    name: Feather
+    itemClass: Feather
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 197
+    type: CraftMaterial
+    name: Stick
+    itemClass: Stick
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 5
+  - id: 68
+    type: CraftMaterial
+    name: IronTube
+    itemClass: Tube
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 48
+    type: Weapon
+    name: StoneSpear
+    itemClass: Spear
+    damage: 5
+    durability: 30
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 49
+    type: Weapon
+    name: IronSpear
+    itemClass: Spear
+    damage: 6
+    durability: 30
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 64
+    type: Key
+    name: IronKey
+    itemClass: Key
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 65
+    type: Key
+    name: GoldKey
+    itemClass: Key
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 66
+    type: Key
+    name: BlueKey
+    itemClass: Key
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 67
+    type: Key
+    name: RedKey
+    itemClass: Key
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
+  - id: 69
+    type: Key
+    name: Lockpick
+    itemClass: Lockpick
+    damage: 0
+    durability: 0
+    satisfyingHunger: 0
+    kindleValue: 0
